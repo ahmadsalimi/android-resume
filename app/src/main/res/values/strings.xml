@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="name">Ahmad Salimi</string>
+    <string name="todo">TODO</string>
+    <string name="title_1">Title 1</string>
+    <string name="paragraph_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel mi in nibh eleifend auctor vestibulum at nisi. Nulla vulputate hendrerit nunc, nec dictum purus commodo ut. Praesent placerat tincidunt arcu varius tempor. Quisque eget condimentum massa, ultrices elementum eros. Phasellus maximus convallis nisi, eget vestibulum nisi dapibus dapibus. Nulla rhoncus mauris nec dui porttitor maximus. Aliquam in sem eros. Aliquam ultricies, ante ac luctus consectetur, libero eros cursus est, ac viverra nisl dolor sit amet massa. Phasellus nec posuere tellus. Nulla vel dolor sit amet nisl sollicitudin lacinia. Aliquam nisi libero, efficitur ac posuere rutrum, dictum ut purus. Sed rhoncus interdum sapien, vel ultrices nunc cursus eget. Vestibulum nisi enim, gravida sed viverra non, aliquet sagittis libero. Nullam id lorem libero. Nullam non vehicula lorem.</string>
+    <string name="title_2">Title 2</string>
+    <string name="paragraph_2">Pellentesque vitae volutpat ipsum, sit amet ultrices quam. Praesent vel ullamcorper odio. Etiam viverra lacus eget quam finibus, in mollis nisl dignissim. Aliquam erat volutpat. Sed viverra non dolor a consectetur. Nulla vitae odio ac ante convallis placerat. Quisque imperdiet sem at turpis vestibulum vehicula. Ut gravida lacinia lacinia.</string>
+    <string name="title_3">Title 3</string>
+    <string name="paragraph_3">Aenean eu ligula facilisis, porta lacus id, aliquet purus. Nunc non porttitor ante. Quisque urna velit, pretium vitae diam eget, fermentum finibus nulla. Nullam gravida dapibus lacus, nec iaculis nunc congue id. Proin ac quam facilisis felis molestie faucibus sit amet sed lectus. Pellentesque arcu leo, lobortis nec volutpat in, auctor id urna. Morbi tempus, magna nec varius ultrices, mi libero blandit metus, ut gravida velit justo vel diam. Morbi libero massa, tempus vitae odio bibendum, porta mollis urna. Suspendisse bibendum malesuada libero, non aliquet orci imperdiet et.</string>
+    <string name="call_me">Call Me!</string>
+    <string name="phone_number">+989172127237</string>
+</resources>
